@@ -36,7 +36,7 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/continuous-integration.png" width="36" height="36" alt="CI/CD" /></a>
+<!-- <a href="https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/continuous-integration.png" width="36" height="36" alt="CI/CD" /></a> -->
 </p>
 
 ###
